@@ -1,0 +1,10 @@
+/Users/antoniosantiagoduenas/Documents/Development/certificatic/dis-systems/ideas/src/main/java/com/sse/App.java
+/Users/antoniosantiagoduenas/Documents/Development/certificatic/dis-systems/ideas/src/main/java/com/sse/auth/JwtService.java
+/Users/antoniosantiagoduenas/Documents/Development/certificatic/dis-systems/ideas/src/main/java/com/sse/db/DatabaseManager.java
+/Users/antoniosantiagoduenas/Documents/Development/certificatic/dis-systems/ideas/src/main/java/com/sse/db/EventRepository.java
+/Users/antoniosantiagoduenas/Documents/Development/certificatic/dis-systems/ideas/src/main/java/com/sse/kafka/EventBatcher.java
+/Users/antoniosantiagoduenas/Documents/Development/certificatic/dis-systems/ideas/src/main/java/com/sse/kafka/EventConsumer.java
+/Users/antoniosantiagoduenas/Documents/Development/certificatic/dis-systems/ideas/src/main/java/com/sse/model/ClientEvent.java
+/Users/antoniosantiagoduenas/Documents/Development/certificatic/dis-systems/ideas/src/main/java/com/sse/resource/HealthResource.java
+/Users/antoniosantiagoduenas/Documents/Development/certificatic/dis-systems/ideas/src/main/java/com/sse/resource/SseResource.java
+/Users/antoniosantiagoduenas/Documents/Development/certificatic/dis-systems/ideas/src/main/java/com/sse/sse/ConnectionManager.java

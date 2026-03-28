@@ -1,0 +1,4 @@
+com/sse/sse/ConnectionManagerTest.class
+com/sse/kafka/EventBatcherTest.class
+com/sse/db/EventRepositoryTest.class
+com/sse/auth/JwtServiceTest.class
